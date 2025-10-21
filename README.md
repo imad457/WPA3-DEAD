@@ -30,13 +30,6 @@ The repository is structured to prioritize **safe analysis**: by default the cod
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Features (what a safe repo version should include)
-- Documentation explaining how 802.11 management frames work (theory).  
-- PCAP samples demonstrating the expected packet patterns (captured in a safe lab).  
-- A **simulation mode** that builds and writes packets to a PCAP file for offline inspection with Wireshark.  
-- Guidance on how to set up an isolated lab and how to restore devices after testing.  
-- A checklist for OPSEC and legal compliance before running any live tests.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Requirements (for simulation / analysis)
