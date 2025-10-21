@@ -21,7 +21,7 @@ The repository is structured to prioritize **safe analysis**: by default the cod
   
   entre ur Interface(should be in monitor mode) :
   entre the target mac address :
-  entre number of chanelle : 
+  entre number of channel : 
 
   
 --------------------------------------------------------------------------------------------------------------------------------------------------
